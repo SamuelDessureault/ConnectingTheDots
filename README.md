@@ -5,6 +5,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have created this project in order to implement in a much bigger game I am working on with a friend. The idea is to make the characters gather all their current clues and piece together how they all fit, including if they don't fit at all. The player will gain access to more experience points and, in some cases, new quests depending on their performance.
 
+This project uses Unity Version: 2020.3.12f1
+
 ## Controls (**Debug Controls)
 - Move the clues:
   - Drag the clue with the mouse.

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c5ed6ea28709a14fbadcb50f800616f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - clues: {instanceID: 0}
+  - clueLibrary: {instanceID: 0}
+  - rope: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

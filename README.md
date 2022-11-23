@@ -19,3 +19,4 @@ This project uses Unity Version: 2020.3.12f1
   
 ## Current Issues/Bugs:
 - Ropes are created out of bounds. (Fixed)
+- There are issues with the health bar not diminishing after failing a connection.

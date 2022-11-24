@@ -1,5 +1,7 @@
 # ConnectingTheDots
 
+![Connecting The Dots Image](./img/connecting-the-dots.png)
+
 ## Description
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project is a demo build of a minigame where you place clues, represented by cards, onto a board and attach them to each other with a rope. Every clue is either related or contradicts eachother and it is the player's job to connect everything together with the ropes and solve the mystery! If 2 clues are related to eachother (ex. an apple and an orange are both fruits), the rope connecting them will turn green. If they contradict eachother (ex. an apple is a fruit and a carrot is a vegetable), the rope will turn red. However, if they have nothing to do with eachother (ex. an apple and a car), the rope will disappear and the player will lose health.
 

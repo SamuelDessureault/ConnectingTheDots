@@ -1,4 +1,4 @@
-# ConnectingTheDots
+# Connecting The Dots
 
 ![Connecting The Dots Image](./img/connecting-the-dots.png)
 
